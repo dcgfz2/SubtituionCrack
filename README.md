@@ -1,5 +1,5 @@
 # SubtituionCrack
-Python Script that crack substitution ciphers which contains encrypted A-Z including full stop(.) and spaces( ).
+Python 3 Script that crack substitution ciphers which contains encrypted A-Z including full stop(.) and spaces( ).
 
 
 *LARGER TEXTS HAVE HIGHER ACCURACY*
